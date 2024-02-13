@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AlgoStructHub/.github/assets/30774866/644198e5-bd08-4169-b0b7-b35801ce4e5d" alt="additional-logo"/>
+  <img src="https://github.com/AlgoStructHub/.github/assets/30774866/0556ea6c-d142-4a84-9af3-d7534cb76945" alt="additional-logo"/>
 </p>
 
 <div align="center">
